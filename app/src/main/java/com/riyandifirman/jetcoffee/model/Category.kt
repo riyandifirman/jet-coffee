@@ -5,7 +5,7 @@ import androidx.annotation.StringRes
 import com.riyandifirman.jetcoffee.R
 
 data class Category(
-    @DrawableRes val imageResource: Int,
+    @DrawableRes val imageCategory: Int,
     @StringRes val textCategory: Int
 )
 
